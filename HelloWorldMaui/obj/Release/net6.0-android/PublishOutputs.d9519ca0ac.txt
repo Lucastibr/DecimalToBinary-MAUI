@@ -1,0 +1,3 @@
+C:\Users\Lucas\source\repos\HelloWorldMaui\HelloWorldMaui\bin\Release\net6.0-android\publish\com.companyname.helloworldmaui-Signed.aab
+C:\Users\Lucas\source\repos\HelloWorldMaui\HelloWorldMaui\bin\Release\net6.0-android\publish\com.companyname.helloworldmaui.aab
+C:\Users\Lucas\source\repos\HelloWorldMaui\HelloWorldMaui\bin\Release\net6.0-android\publish\com.companyname.helloworldmaui-Signed.apk

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HelloWorldMaui</id>
+    <version>1.0.0</version>
+    <authors>HelloWorldMaui</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-android31.0">
+        <dependency id="Microsoft.Maui.Dependencies" version="6.0.300-rc.1.5355" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Extensions" version="6.0.300-rc.1.5355" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0-ios15.4">
+        <dependency id="Microsoft.Maui.Dependencies" version="6.0.300-rc.1.5355" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Extensions" version="6.0.300-rc.1.5355" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.InteropServices.NFloat.Internal" version="6.0.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0-maccatalyst15.4">
+        <dependency id="Microsoft.Maui.Dependencies" version="6.0.300-rc.1.5355" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Extensions" version="6.0.300-rc.1.5355" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.InteropServices.NFloat.Internal" version="6.0.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0-windows10.0.19041">
+        <dependency id="Microsoft.Maui.Dependencies" version="6.0.300-rc.1.5355" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Extensions" version="6.0.300-rc.1.5355" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Lucas\source\repos\HelloWorldMaui\HelloWorldMaui\bin\Release\net6.0-android\HelloWorldMaui.runtimeconfig.json" target="lib\net6.0-android31.0\HelloWorldMaui.runtimeconfig.json" />
+    <file src="C:\Users\Lucas\source\repos\HelloWorldMaui\HelloWorldMaui\bin\Release\net6.0-android\HelloWorldMaui.dll" target="lib\net6.0-android31.0\HelloWorldMaui.dll" />
+    <file src="C:\Users\Lucas\source\repos\HelloWorldMaui\HelloWorldMaui\bin\Release\net6.0-android\HelloWorldMaui.xml" target="lib\net6.0-android31.0\HelloWorldMaui.xml" />
+  </files>
+</package>
