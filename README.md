@@ -6,6 +6,6 @@
 
 # APP only to test the new Microsoft Framework
 
-![Alt text](pic_1.png)
+![Alt text](pic_1.jpg)
 
-![Alt text](pic_2.png)
+![Alt text](pic_2.jpg)
